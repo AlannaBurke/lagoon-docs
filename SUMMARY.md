@@ -66,4 +66,6 @@
 * [Developing Lagoon](contributing-to-lagoon/developing-lagoon.md)
 * [Code of Conduct](contributing-to-lagoon/untitled-1.md)
 * [API Debugging](contributing-to-lagoon/untitled.md)
+* [FAQ](faq.md)
+* [Glossary](glossary.md)
 
