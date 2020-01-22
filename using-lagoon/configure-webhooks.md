@@ -12,11 +12,11 @@ If you are an amazee.io customer, the route to the webhook-handler is: [`https:/
 * The `Payload URL` is the route to the webhook-handler of your Lagoon instance.
 * Set `Content type` to `application/json`.
 
-![Add the Payload URL and set the Content type.](.gitbook/assets/gh_webhook_1.png)
+![Add the Payload URL and set the Content type.](../.gitbook/assets/gh_webhook_1.png)
 
 * Choose which events will trigger your webhook. It is our suggestion that you send `push` and `Pull request` events, and then filter further in the Lagoon configuration of your project.
 
-![Select the webhook event triggers in GitHub.](.gitbook/assets/gh_webhook_2.png)
+![Select the webhook event triggers in GitHub.](../.gitbook/assets/gh_webhook_2.png)
 
 * `Add webhook`.
 
@@ -26,7 +26,7 @@ If you are an amazee.io customer, the route to the webhook-handler is: [`https:/
 * The `URL` is the route to the webhook-handler of your Lagoon instance.
 * Set the `Trigger` for which events will send a notification to Lagoon. It is our suggestion that you send `Push events` and `Merge request events` events, and then filter further in the Lagoon configuration of your project.
 
-![Select the Trigger events for your Webhook in GitLab.](.gitbook/assets/gl_webhook_1.png)
+![Select the Trigger events for your Webhook in GitLab.](../.gitbook/assets/gl_webhook_1.png)
 
 * `Add webhook`.
 
@@ -45,7 +45,7 @@ If you are an amazee.io customer, the route to the webhook-handler is: [`https:/
     * Merged
     * Declined
 
-![Select the Bitbucket Triggers for your webhook. ](.gitbook/assets/bb_webhook_1.png)
+![Select the Bitbucket Triggers for your webhook. ](../.gitbook/assets/bb_webhook_1.png)
 
 * `Save`.
 

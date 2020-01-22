@@ -24,7 +24,7 @@ This image is prepared to be used on Lagoon which leverages OpenShift. There are
 
   UI, `permissions` and `policies`.
 
-By default a policy called `lagoon-ha` is created at startup but it is not active because it doesn't match any queue's name pattern \(see default [Environment Variables](../environment-variables.md)\).
+By default a policy called `lagoon-ha` is created at startup but it is not active because it doesn't match any queue's name pattern \(see default [Environment Variables](../using-lagoon/environment-variables.md)\).
 
 ```yaml
 "policies":[

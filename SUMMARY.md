@@ -4,20 +4,20 @@
 
 ## Using Lagoon
 
-* [Local Development Environments](local-development-environments.md)
-* [Configure Webhooks](configure-webhooks.md)
-* [First Deployment](first-deployment.md)
-* [lagoon.yml](lagoon-yml.md)
-* [docker-compose.yml](docker-compose-yml.md)
-* [Service Types](service-types.md)
-* [Build and Deploy Process](build-and-deploy-process.md)
-* [Environment Types](environment-types.md)
-* [Environment Variables](environment-variables.md)
-* [Going Live](going-live.md)
-* [Workflows](workflows.md)
-* [Backups](backups.md)
-* [Remote Shell](remote-sell.md)
-* [GraphQL](graphql.md)
+* [Local Development Environments](using-lagoon/local-development-environments.md)
+* [Configure Webhooks](using-lagoon/configure-webhooks.md)
+* [First Deployment](using-lagoon/first-deployment.md)
+* [lagoon.yml](using-lagoon/lagoon-yml.md)
+* [docker-compose.yml](using-lagoon/docker-compose-yml.md)
+* [Service Types](using-lagoon/service-types.md)
+* [Build and Deploy Process](using-lagoon/build-and-deploy-process.md)
+* [Environment Types](using-lagoon/environment-types.md)
+* [Environment Variables](using-lagoon/environment-variables.md)
+* [Going Live](using-lagoon/going-live.md)
+* [Workflows](using-lagoon/workflows.md)
+* [Backups](using-lagoon/backups.md)
+* [Remote Shell](using-lagoon/remote-sell.md)
+* [GraphQL](using-lagoon/graphql.md)
 
 ## Drupal
 
