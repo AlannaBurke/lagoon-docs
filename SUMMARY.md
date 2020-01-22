@@ -16,7 +16,7 @@
 * [Going Live](using-lagoon/going-live.md)
 * [Workflows](using-lagoon/workflows.md)
 * [Backups](using-lagoon/backups.md)
-* [Remote Shell](using-lagoon/remote-sell.md)
+* [Remote Shell](using-lagoon/remote-shell.md)
 * [GraphQL](using-lagoon/graphql.md)
 
 ## Drupal
@@ -37,8 +37,8 @@
 ## Administering Lagoon
 
 * [Installing Lagoon on OpenShift](administering-lagoon/installing-lagoon-on-openshift.md)
-* [GraphQL API](administering-lagoon/untitled-1.md)
-* [Role-Based Access Control \(RBAC\)](administering-lagoon/untitled.md)
+* [GraphQL API](administering-lagoon/graphql-queries.md)
+* [Role-Based Access Control \(RBAC\)](administering-lagoon/rbac.md)
 
 ## Docker Images
 
@@ -65,8 +65,8 @@
 
 * [Tests](contributing-to-lagoon/tests.md)
 * [Developing Lagoon](contributing-to-lagoon/developing-lagoon.md)
-* [Code of Conduct](contributing-to-lagoon/untitled-1.md)
-* [API Debugging](contributing-to-lagoon/untitled.md)
+* [Code of Conduct](contributing-to-lagoon/code-of-conduct.md)
+* [API Debugging](contributing-to-lagoon/api-debugging.md)
 * [FAQ](faq.md)
 * [Glossary](glossary.md)
 
