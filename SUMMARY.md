@@ -27,6 +27,7 @@
 * [Step by Step: Getting Drupal ready to run on Lagoon](drupal/step-by-step-getting-drupal-ready-to-run-on-lagoon.md)
 * [Drush 9](drupal/drush-9.md)
 * [First Deployment of Drupal](drupal/first-deployment-of-drupal.md)
+* [Subfolders](drupal/subfolders.md)
 
 ## Logging
 
