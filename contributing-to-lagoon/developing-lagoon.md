@@ -86,7 +86,7 @@ The API uses a [Puppet](https://puppet.com/docs/puppet/latest/puppet_index.html)
 
 ## Troubleshooting
 
-⚠ **I can't build a docker image for any Node.js based service**
+\*\*\*\*⚠ **I can't build a docker image for any Node.js based service**
 
 Rebuild the images via
 
@@ -95,11 +95,11 @@ make clean
 make build
 ```
 
-⚠ **I get errors about missing node\_modules content when I try to build / run a NodeJS based image**
+\*\*\*\*⚠ **I get errors about missing node\_modules content when I try to build / run a NodeJS based image**
 
 Make sure to run `yarn` in lagoon's root directory, since some services have common dependencies managed by `yarn` workspaces.
 
-⚠ **My builds can't resolve domains**
+\*\*\*\*⚠ **My builds can't resolve domains**
 
 Some Internet Service Providers \(ISPs\) set up a "search domain" to catch domain name errors. Virtualbox will copy this setting into minishift, which can cause domain resolution errors in the OpenShift pods. To check for this problem, look at the `/etc/resolv.conf` in your failing pod and check for errant search domains.
 

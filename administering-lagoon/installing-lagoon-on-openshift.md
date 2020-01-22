@@ -80,5 +80,5 @@ Once your Lagoon install is operational, you need to initialize OpendistroSecuri
 
 ## Configure Installed Lagoon
 
-We have now a fully running Lagoon. Now it's time to configure the first project inside of it. Follow the examples in [GraphQL API](untitled-1.md).
+We have now a fully running Lagoon. Now it's time to configure the first project inside of it. Follow the examples in [GraphQL API](graphql-queries.md).
 
